@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/healer/static/css/main.a5a75a03.css",
+    "main.js": "/healer/static/js/main.c3d194ab.js",
+    "static/js/453.9cba026b.chunk.js": "/healer/static/js/453.9cba026b.chunk.js",
+    "index.html": "/healer/index.html",
+    "main.a5a75a03.css.map": "/healer/static/css/main.a5a75a03.css.map",
+    "main.c3d194ab.js.map": "/healer/static/js/main.c3d194ab.js.map",
+    "453.9cba026b.chunk.js.map": "/healer/static/js/453.9cba026b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5a75a03.css",
+    "static/js/main.c3d194ab.js"
+  ]
+}
