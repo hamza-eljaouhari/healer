@@ -912,5 +912,864 @@ export default {
     ],
     "minerals": [],
     "amino_acids": []
+  },
+  "scurvy": {
+    "name": { "en": "Scurvy (Vitamin C deficiency)", "fr": "Scorbut (carence en vitamine C)" },
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin C", "fr": "Vitamine C" },
+        "aliments": [
+          {
+            "name": { "en": "Oranges", "fr": "Oranges" },
+            "description": { "en": "Citrus fruit high in Vitamin C.", "fr": "Agrume riche en vitamine C." }
+          },
+          {
+            "name": { "en": "Strawberries", "fr": "Fraises" },
+            "description": { "en": "Berries rich in Vitamin C.", "fr": "Baies riches en vitamine C." }
+          },
+          {
+            "name": { "en": "Kiwifruit", "fr": "Kiwi" },
+            "description": { "en": "Fruit high in Vitamin C.", "fr": "Fruit riche en vitamine C." }
+          }
+        ]
+      }
+    ],
+    "minerals": [],
+    "amino_acids": []
+  },
+  "rickets": {
+    "name": { "en": "Rickets (Vitamin D deficiency)", "fr": "Rachitisme (carence en vitamine D)" },
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin D", "fr": "Vitamine D" },
+        "aliments": [
+          {
+            "name": { "en": "Salmon", "fr": "Saumon" },
+            "description": { "en": "Fish high in Vitamin D.", "fr": "Poisson riche en vitamine D." }
+          },
+          {
+            "name": { "en": "Mushrooms", "fr": "Champignons" },
+            "description": { "en": "Fungi high in Vitamin D.", "fr": "Champignons riches en vitamine D." }
+          },
+          {
+            "name": { "en": "Egg Yolks", "fr": "Jaunes d'œufs" },
+            "description": { "en": "Egg yolks high in Vitamin D.", "fr": "Jaunes d'œufs riches en vitamine D." }
+          }
+        ]
+      }
+    ],
+    "minerals": [],
+    "amino_acids": []
+  },
+  "beriberi": {
+    "name": { "en": "Beriberi (Vitamin B1 deficiency)", "fr": "Béribéri (carence en vitamine B1)" },
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin B1 (Thiamine)", "fr": "Vitamine B1 (Thiamine)" },
+        "aliments": [
+          {
+            "name": { "en": "Pork", "fr": "Porc" },
+            "description": { "en": "Meat high in thiamine.", "fr": "Viande riche en thiamine." }
+          },
+          {
+            "name": { "en": "Sunflower Seeds", "fr": "Graines de tournesol" },
+            "description": { "en": "Seeds high in thiamine.", "fr": "Graines riches en thiamine." }
+          },
+          {
+            "name": { "en": "Green Peas", "fr": "Pois verts" },
+            "description": { "en": "Vegetable high in thiamine.", "fr": "Légume riche en thiamine." }
+          }
+        ]
+      }
+    ],
+    "minerals": [],
+    "amino_acids": []
+  },
+  "pellagra": {
+    "name": { "en": "Pellagra (Vitamin B3 deficiency)", "fr": "Pellagre (carence en vitamine B3)" },
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin B3 (Niacin)", "fr": "Vitamine B3 (Niacine)" },
+        "aliments": [
+          {
+            "name": { "en": "Chicken Breast", "fr": "Poitrine de poulet" },
+            "description": { "en": "Meat high in niacin.", "fr": "Viande riche en niacine." }
+          },
+          {
+            "name": { "en": "Tuna", "fr": "Thon" },
+            "description": { "en": "Fish high in niacin.", "fr": "Poisson riche en niacine." }
+          },
+          {
+            "name": { "en": "Turkey", "fr": "Dinde" },
+            "description": { "en": "Poultry high in niacin.", "fr": "Volaille riche en niacine." }
+          }
+        ]
+      }
+    ],
+    "minerals": [],
+    "amino_acids": []
+  },
+  "kwashiorkor": {
+    "name": { "en": "Kwashiorkor (Protein deficiency)", "fr": "Kwashiorkor (carence en protéines)" },
+    "amino_acids": [
+      {
+        "name": { "en": "Protein", "fr": "Protéine" },
+        "aliments": [
+          {
+            "name": { "en": "Eggs", "fr": "Œufs" },
+            "description": { "en": "Rich source of protein.", "fr": "Source riche en protéines." }
+          },
+          {
+            "name": { "en": "Chicken Breast", "fr": "Poitrine de poulet" },
+            "description": { "en": "Lean meat high in protein.", "fr": "Viande maigre riche en protéines." }
+          },
+          {
+            "name": { "en": "Lentils", "fr": "Lentilles" },
+            "description": { "en": "Legume high in protein.", "fr": "Légume riche en protéines." }
+          }
+        ]
+      }
+    ],
+    "vitamins": [],
+    "minerals": []
+  },
+  "marasmus": {
+    "name": { "en": "Marasmus (Severe malnutrition due to deficiency of calories and proteins)", "fr": "Marasme (malnutrition sévère due à une carence en calories et en protéines)" },
+    "amino_acids": [
+      {
+        "name": { "en": "Protein", "fr": "Protéine" },
+        "aliments": [
+          {
+            "name": { "en": "Eggs", "fr": "Œufs" },
+            "description": { "en": "Rich source of protein.", "fr": "Source riche en protéines." }
+          },
+          {
+            "name": { "en": "Chicken Breast", "fr": "Poitrine de poulet" },
+            "description": { "en": "Lean meat high in protein.", "fr": "Viande maigre riche en protéines." }
+          },
+          {
+            "name": { "en": "Lentils", "fr": "Lentilles" },
+            "description": { "en": "Legume high in protein.", "fr": "Légume riche en protéines." }
+          }
+        ]
+      }
+    ],
+    "vitamins": [],
+    "minerals": []
+  },
+  "anemia": {
+    "name": { "en": "Anemia", "fr": "Anémie" },
+    "minerals": [
+      {
+        "name": { "en": "Iron", "fr": "Fer" },
+        "aliments": [
+          {
+            "name": { "en": "Red Meat", "fr": "Viande rouge" },
+            "description": { "en": "Meat high in iron.", "fr": "Viande riche en fer." }
+          },
+          {
+            "name": { "en": "Spinach", "fr": "Épinards" },
+            "description": { "en": "Leafy green rich in iron.", "fr": "Légume vert riche en fer." }
+          },
+          {
+            "name": { "en": "Lentils", "fr": "Lentilles" },
+            "description": { "en": "Legume high in iron.", "fr": "Légume riche en fer." }
+          }
+        ]
+      }
+    ],
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin B12", "fr": "Vitamine B12" },
+        "aliments": [
+          {
+            "name": { "en": "Clams", "fr": "Palourdes" },
+            "description": { "en": "Seafood high in Vitamin B12.", "fr": "Fruits de mer riches en vitamine B12." }
+          },
+          {
+            "name": { "en": "Liver", "fr": "Foie" },
+            "description": { "en": "Organ meat high in Vitamin B12.", "fr": "Abat riche en vitamine B12." }
+          },
+          {
+            "name": { "en": "Salmon", "fr": "Saumon" },
+            "description": { "en": "Fish high in Vitamin B12.", "fr": "Poisson riche en vitamine B12." }
+          }
+        ]
+      }
+    ],
+    "amino_acids": []
+  },
+  "bone health": {
+    "name": { "en": "Bone Health (Osteoporosis)", "fr": "Santé des os (Ostéoporose)" },
+    "minerals": [
+      {
+        "name": { "en": "Calcium", "fr": "Calcium" },
+        "aliments": [
+          {
+            "name": { "en": "Milk", "fr": "Lait" },
+            "description": { "en": "Dairy product high in calcium.", "fr": "Produit laitier riche en calcium." }
+          },
+          {
+            "name": { "en": "Cheese", "fr": "Fromage" },
+            "description": { "en": "Dairy product high in calcium.", "fr": "Produit laitier riche en calcium." }
+          },
+          {
+            "name": { "en": "Yogurt", "fr": "Yaourt" },
+            "description": { "en": "Cultured dairy product high in calcium.", "fr": "Produit laitier fermenté riche en calcium." }
+          }
+        ]
+      },
+      {
+        "name": { "en": "Magnesium", "fr": "Magnésium" },
+        "aliments": [
+          {
+            "name": { "en": "Spinach", "fr": "Épinards" },
+            "description": { "en": "Leafy green rich in magnesium.", "fr": "Légume vert riche en magnésium." }
+          },
+          {
+            "name": { "en": "Pumpkin Seeds", "fr": "Graines de citrouille" },
+            "description": { "en": "Seeds high in magnesium.", "fr": "Graines riches en magnésium." }
+          },
+          {
+            "name": { "en": "Almonds", "fr": "Amandes" },
+            "description": { "en": "Nuts high in magnesium.", "fr": "Noix riches en magnésium." }
+          }
+        ]
+      }
+    ],
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin D", "fr": "Vitamine D" },
+        "aliments": [
+          {
+            "name": { "en": "Salmon", "fr": "Saumon" },
+            "description": { "en": "Fish high in Vitamin D.", "fr": "Poisson riche en vitamine D." }
+          },
+          {
+            "name": { "en": "Mushrooms", "fr": "Champignons" },
+            "description": { "en": "Fungi high in Vitamin D.", "fr": "Champignons riches en vitamine D." }
+          },
+          {
+            "name": { "en": "Egg Yolks", "fr": "Jaunes d'œufs" },
+            "description": { "en": "Egg yolks high in Vitamin D.", "fr": "Jaunes d'œufs riches en vitamine D." }
+          }
+        ]
+      },
+      {
+        "name": { "en": "Vitamin K", "fr": "Vitamine K" },
+        "aliments": [
+          {
+            "name": { "en": "Kale", "fr": "Chou frisé" },
+            "description": { "en": "Leafy green high in Vitamin K.", "fr": "Légume vert riche en vitamine K." }
+          },
+          {
+            "name": { "en": "Broccoli", "fr": "Brocoli" },
+            "description": { "en": "Vegetable high in Vitamin K.", "fr": "Légume riche en vitamine K." }
+          },
+          {
+            "name": { "en": "Brussels Sprouts", "fr": "Choux de Bruxelles" },
+            "description": { "en": "Vegetable high in Vitamin K.", "fr": "Légume riche en vitamine K." }
+          }
+        ]
+      }
+    ],
+    "amino_acids": []
+  },
+  "cognitive decline": {
+    "name": { "en": "Cognitive Decline", "fr": "Déclin cognitif" },
+    "minerals": [],
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin B12", "fr": "Vitamine B12" },
+        "aliments": [
+          {
+            "name": { "en": "Clams", "fr": "Palourdes" },
+            "description": { "en": "Seafood high in Vitamin B12.", "fr": "Fruits de mer riches en vitamine B12." }
+          },
+          {
+            "name": { "en": "Liver", "fr": "Foie" },
+            "description": { "en": "Organ meat high in Vitamin B12.", "fr": "Abat riche en vitamine B12." }
+          },
+          {
+            "name": { "en": "Salmon", "fr": "Saumon" },
+            "description": { "en": "Fish high in Vitamin B12.", "fr": "Poisson riche en vitamine B12." }
+          }
+        ]
+      },
+      {
+        "name": { "en": "Vitamin E", "fr": "Vitamine E" },
+        "aliments": [
+          {
+            "name": { "en": "Sunflower Seeds", "fr": "Graines de tournesol" },
+            "description": { "en": "Seeds high in Vitamin E.", "fr": "Graines riches en vitamine E." }
+          },
+          {
+            "name": { "en": "Almonds", "fr": "Amandes" },
+            "description": { "en": "Nuts rich in Vitamin E.", "fr": "Noix riches en vitamine E." }
+          },
+          {
+            "name": { "en": "Spinach", "fr": "Épinards" },
+            "description": { "en": "Leafy green rich in Vitamin E.", "fr": "Légume vert riche en vitamine E." }
+          }
+        ]
+      }
+    ],
+    "amino_acids": []
+  },
+  "dry skin": {
+    "name": { "en": "Dry Skin", "fr": "Peau sèche" },
+    "minerals": [],
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin E", "fr": "Vitamine E" },
+        "aliments": [
+          {
+            "name": { "en": "Sunflower Seeds", "fr": "Graines de tournesol" },
+            "description": { "en": "Seeds high in Vitamin E.", "fr": "Graines riches en vitamine E." }
+          },
+          {
+            "name": { "en": "Almonds", "fr": "Amandes" },
+            "description": { "en": "Nuts rich in Vitamin E.", "fr": "Noix riches en vitamine E." }
+          },
+          {
+            "name": { "en": "Spinach", "fr": "Épinards" },
+            "description": { "en": "Leafy green rich in Vitamin E.", "fr": "Légume vert riche en vitamine E." }
+          }
+        ]
+      }
+    ],
+    "amino_acids": []
+  },
+  "eye health": {
+    "name": { "en": "Eye Health", "fr": "Santé des yeux" },
+    "minerals": [],
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin A", "fr": "Vitamine A" },
+        "aliments": [
+          {
+            "name": { "en": "Carrots", "fr": "Carottes" },
+            "description": { "en": "Vegetable high in Vitamin A.", "fr": "Légume riche en vitamine A." }
+          },
+          {
+            "name": { "en": "Sweet Potatoes", "fr": "Patates douces" },
+            "description": { "en": "Root vegetable high in Vitamin A.", "fr": "Légume racine riche en vitamine A." }
+          },
+          {
+            "name": { "en": "Spinach", "fr": "Épinards" },
+            "description": { "en": "Leafy green high in Vitamin A.", "fr": "Légume vert riche en vitamine A." }
+          }
+        ]
+      }
+    ],
+    "amino_acids": []
+  },
+  "hair loss": {
+    "name": { "en": "Hair Loss", "fr": "Perte de cheveux" },
+    "minerals": [
+      {
+        "name": { "en": "Zinc", "fr": "Zinc" },
+        "aliments": [
+          {
+            "name": { "en": "Chickpeas", "fr": "Pois chiches" },
+            "description": { "en": "Legume high in zinc.", "fr": "Légume riche en zinc." }
+          },
+          {
+            "name": { "en": "Pumpkin Seeds", "fr": "Graines de citrouille" },
+            "description": { "en": "Seeds high in zinc.", "fr": "Graines riches en zinc." }
+          },
+          {
+            "name": { "en": "Cashews", "fr": "Noix de cajou" },
+            "description": { "en": "Nuts high in zinc.", "fr": "Noix riches en zinc." }
+          }
+        ]
+      }
+    ],
+    "vitamins": [
+      {
+        "name": { "en": "Biotin (Vitamin B7)", "fr": "Biotine (Vitamine B7)" },
+        "aliments": [
+          {
+            "name": { "en": "Eggs", "fr": "Œufs" },
+            "description": { "en": "Rich source of biotin.", "fr": "Source riche en biotine." }
+          },
+          {
+            "name": { "en": "Almonds", "fr": "Amandes" },
+            "description": { "en": "Nuts rich in biotin.", "fr": "Noix riches en biotine." }
+          },
+          {
+            "name": { "en": "Spinach", "fr": "Épinards" },
+            "description": { "en": "Leafy green high in biotin.", "fr": "Légume vert riche en biotine." }
+          }
+        ]
+      }
+    ],
+    "amino_acids": []
+  },
+  "heart health": {
+    "name": { "en": "Heart Health", "fr": "Santé du cœur" },
+    "minerals": [
+      {
+        "name": { "en": "Magnesium", "fr": "Magnésium" },
+        "aliments": [
+          {
+            "name": { "en": "Spinach", "fr": "Épinards" },
+            "description": { "en": "Leafy green rich in magnesium.", "fr": "Légume vert riche en magnésium." }
+          },
+          {
+            "name": { "en": "Pumpkin Seeds", "fr": "Graines de citrouille" },
+            "description": { "en": "Seeds high in magnesium.", "fr": "Graines riches en magnésium." }
+          },
+          {
+            "name": { "en": "Almonds", "fr": "Amandes" },
+            "description": { "en": "Nuts high in magnesium.", "fr": "Noix riches en magnésium." }
+          }
+        ]
+      }
+    ],
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin E", "fr": "Vitamine E" },
+        "aliments": [
+          {
+            "name": { "en": "Sunflower Seeds", "fr": "Graines de tournesol" },
+            "description": { "en": "Seeds high in Vitamin E.", "fr": "Graines riches en vitamine E." }
+          },
+          {
+            "name": { "en": "Almonds", "fr": "Amandes" },
+            "description": { "en": "Nuts rich in Vitamin E.", "fr": "Noix riches en vitamine E." }
+          },
+          {
+            "name": { "en": "Spinach", "fr": "Épinards" },
+            "description": { "en": "Leafy green rich in Vitamin E.", "fr": "Légume vert riche en vitamine E." }
+          }
+        ]
+      },
+      {
+        "name": { "en": "Omega-3", "fr": "Omega-3" },
+        "aliments": [
+          {
+            "name": { "en": "Salmon", "fr": "Saumon" },
+            "description": { "en": "Fish high in Omega-3.", "fr": "Poisson riche en Omega-3." }
+          },
+          {
+            "name": { "en": "Chia Seeds", "fr": "Graines de chia" },
+            "description": { "en": "Seeds high in Omega-3.", "fr": "Graines riches en Omega-3." }
+          },
+          {
+            "name": { "en": "Walnuts", "fr": "Noix" },
+            "description": { "en": "Nuts high in Omega-3.", "fr": "Noix riches en Omega-3." }
+          }
+        ]
+      }
+    ],
+    "amino_acids": []
+  },
+  "immune support": {
+    "name": { "en": "Immune Support", "fr": "Soutien immunitaire" },
+    "minerals": [
+      {
+        "name": { "en": "Zinc", "fr": "Zinc" },
+        "aliments": [
+          {
+            "name": { "en": "Chickpeas", "fr": "Pois chiches" },
+            "description": { "en": "Legume high in zinc.", "fr": "Légume riche en zinc." }
+          },
+          {
+            "name": { "en": "Pumpkin Seeds", "fr": "Graines de citrouille" },
+            "description": { "en": "Seeds high in zinc.", "fr": "Graines riches en zinc." }
+          },
+          {
+            "name": { "en": "Cashews", "fr": "Noix de cajou" },
+            "description": { "en": "Nuts high in zinc.", "fr": "Noix riches en zinc." }
+          }
+        ]
+      }
+    ],
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin C", "fr": "Vitamine C" },
+        "aliments": [
+          {
+            "name": { "en": "Oranges", "fr": "Oranges" },
+            "description": { "en": "Citrus fruit high in Vitamin C.", "fr": "Agrume riche en vitamine C." }
+          },
+          {
+            "name": { "en": "Strawberries", "fr": "Fraises" },
+            "description": { "en": "Berries rich in Vitamin C.", "fr": "Baies riches en vitamine C." }
+          },
+          {
+            "name": { "en": "Kiwifruit", "fr": "Kiwi" },
+            "description": { "en": "Fruit high in Vitamin C.", "fr": "Fruit riche en vitamine C." }
+          }
+        ]
+      }
+    ],
+    "amino_acids": []
+  },
+  "muscle cramps": {
+    "name": { "en": "Muscle Cramps", "fr": "Crampe musculaire" },
+    "minerals": [
+      {
+        "name": { "en": "Magnesium", "fr": "Magnésium" },
+        "aliments": [
+          {
+            "name": { "en": "Spinach", "fr": "Épinards" },
+            "description": { "en": "Leafy green rich in magnesium.", "fr": "Légume vert riche en magnésium." }
+          },
+          {
+            "name": { "en": "Pumpkin Seeds", "fr": "Graines de citrouille" },
+            "description": { "en": "Seeds high in magnesium.", "fr": "Graines riches en magnésium." }
+          },
+          {
+            "name": { "en": "Almonds", "fr": "Amandes" },
+            "description": { "en": "Nuts high in magnesium.", "fr": "Noix riches en magnésium." }
+          }
+        ]
+      },
+      {
+        "name": { "en": "Potassium", "fr": "Potassium" },
+        "aliments": [
+          {
+            "name": { "en": "Bananas", "fr": "Bananes" },
+            "description": { "en": "Fruit high in potassium.", "fr": "Fruit riche en potassium." }
+          },
+          {
+            "name": { "en": "Sweet Potatoes", "fr": "Patates douces" },
+            "description": { "en": "Root vegetable high in potassium.", "fr": "Légume racine riche en potassium." }
+          },
+          {
+            "name": { "en": "Spinach", "fr": "Épinards" },
+            "description": { "en": "Leafy green rich in potassium.", "fr": "Légume vert riche en potassium." }
+          }
+        ]
+      }
+    ],
+    "vitamins": [],
+    "amino_acids": []
+  },
+  "nausea": {
+    "name": { "en": "Nausea", "fr": "Nausée" },
+    "herbs": [
+      {
+        "name": { "en": "Ginger", "fr": "Gingembre" },
+        "aliments": [
+          {
+            "name": { "en": "Ginger Tea", "fr": "Thé au gingembre" },
+            "description": { "en": "A soothing tea made from fresh ginger root.", "fr": "Un thé apaisant fait de racine de gingembre frais." }
+          },
+          {
+            "name": { "en": "Ginger Ale", "fr": "Soda au gingembre" },
+            "description": { "en": "A carbonated drink flavored with ginger.", "fr": "Une boisson gazeuse aromatisée au gingembre." }
+          },
+          {
+            "name": { "en": "Ginger Cookies", "fr": "Biscuits au gingembre" },
+            "description": { "en": "Cookies made with ginger.", "fr": "Biscuits faits avec du gingembre." }
+          }
+        ]
+      },
+      {
+        "name": { "en": "Peppermint", "fr": "Menthe poivrée" },
+        "aliments": [
+          {
+            "name": { "en": "Peppermint Tea", "fr": "Thé à la menthe poivrée" },
+            "description": { "en": "A refreshing tea made from peppermint leaves.", "fr": "Un thé rafraîchissant fait de feuilles de menthe poivrée." }
+          },
+          {
+            "name": { "en": "Peppermint Candy", "fr": "Bonbons à la menthe poivrée" },
+            "description": { "en": "Candy flavored with peppermint.", "fr": "Bonbons aromatisés à la menthe poivrée." }
+          }
+        ]
+      }
+    ],
+    "vitamins": [],
+    "minerals": [],
+    "amino_acids": []
+  },
+  "skin conditions": {
+    "name": { "en": "Skin Conditions", "fr": "Problèmes de peau" },
+    "herbs": [
+      {
+        "name": { "en": "Aloe Vera", "fr": "Aloe Vera" },
+        "aliments": [
+          {
+            "name": { "en": "Aloe Vera Juice", "fr": "Jus d'Aloe Vera" },
+            "description": { "en": "A juice made from aloe vera.", "fr": "Un jus fait d'Aloe Vera." }
+          },
+          {
+            "name": { "en": "Aloe Vera Gel", "fr": "Gel d'Aloe Vera" },
+            "description": { "en": "A gel made from aloe vera.", "fr": "Un gel fait d'Aloe Vera." }
+          }
+        ]
+      },
+      {
+        "name": { "en": "Turmeric", "fr": "Curcuma" },
+        "aliments": [
+          {
+            "name": { "en": "Turmeric Tea", "fr": "Thé au curcuma" },
+            "description": { "en": "A tea made from turmeric root.", "fr": "Un thé fait de racine de curcuma." }
+          },
+          {
+            "name": { "en": "Turmeric Smoothie", "fr": "Smoothie au curcuma" },
+            "description": { "en": "A smoothie made with turmeric.", "fr": "Un smoothie fait de curcuma." }
+          },
+          {
+            "name": { "en": "Turmeric Soup", "fr": "Soupe au curcuma" },
+            "description": { "en": "A soup made with turmeric.", "fr": "Une soupe faite de curcuma." }
+          }
+        ]
+      },
+      {
+        "name": { "en": "Witch Hazel", "fr": "Hamamélis" },
+        "aliments": [
+          {
+            "name": { "en": "Witch Hazel Toner", "fr": "Tonique d'hamamélis" },
+            "description": { "en": "A toner made from witch hazel.", "fr": "Un tonique fait d'hamamélis." }
+          }
+        ]
+      },
+      {
+        "name": { "en": "Tea Tree Oil", "fr": "Huile d'arbre à thé" },
+        "aliments": [
+          {
+            "name": { "en": "Tea Tree Oil Solution", "fr": "Solution d'huile d'arbre à thé" },
+            "description": { "en": "A solution made from tea tree oil.", "fr": "Une solution faite d'huile d'arbre à thé." }
+          }
+        ]
+      },
+      {
+        "name": { "en": "Calendula", "fr": "Calendula" },
+        "aliments": [
+          {
+            "name": { "en": "Calendula Cream", "fr": "Crème de calendula" },
+            "description": { "en": "A cream made from calendula.", "fr": "Une crème faite de calendula." }
+          }
+        ]
+      }
+    ],
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin E", "fr": "Vitamine E" },
+        "aliments": [
+          {
+            "name": { "en": "Sunflower Seeds", "fr": "Graines de tournesol" },
+            "description": { "en": "Seeds high in Vitamin E.", "fr": "Graines riches en vitamine E." }
+          },
+          {
+            "name": { "en": "Almonds", "fr": "Amandes" },
+            "description": { "en": "Nuts rich in Vitamin E.", "fr": "Noix riches en vitamine E." }
+          },
+          {
+            "name": { "en": "Spinach", "fr": "Épinards" },
+            "description": { "en": "Leafy green rich in Vitamin E.", "fr": "Légume vert riche en vitamine E." }
+          }
+        ]
+      }
+    ],
+    "minerals": [],
+    "amino_acids": []
+  },
+  "thyroid issues": {
+    "name": { "en": "Thyroid Issues", "fr": "Problèmes de thyroïde" },
+    "minerals": [
+      {
+        "name": { "en": "Iodine", "fr": "Iode" },
+        "aliments": [
+          {
+            "name": { "en": "Seaweed", "fr": "Algue" },
+            "description": { "en": "Sea vegetable high in iodine.", "fr": "Légume marin riche en iode." }
+          },
+          {
+            "name": { "en": "Cod", "fr": "Morue" },
+            "description": { "en": "Fish high in iodine.", "fr": "Poisson riche en iode." }
+          },
+          {
+            "name": { "en": "Dairy", "fr": "Produits laitiers" },
+            "description": { "en": "Dairy products high in iodine.", "fr": "Produits laitiers riches en iode." }
+          }
+        ]
+      },
+      {
+        "name": { "en": "Selenium", "fr": "Sélénium" },
+        "aliments": [
+          {
+            "name": { "en": "Brazil Nuts", "fr": "Noix du Brésil" },
+            "description": { "en": "Nuts high in selenium.", "fr": "Noix riches en sélénium." }
+          },
+          {
+            "name": { "en": "Sunflower Seeds", "fr": "Graines de tournesol" },
+            "description": { "en": "Seeds high in selenium.", "fr": "Graines riches en sélénium." }
+          },
+          {
+            "name": { "en": "Turkey", "fr": "Dinde" },
+            "description": { "en": "Poultry high in selenium.", "fr": "Volaille riche en sélénium." }
+          }
+        ]
+      }
+    ],
+    "vitamins": [],
+    "amino_acids": []
+  },
+  "weakness and fatigue": {
+    "name": { "en": "Weakness and Fatigue", "fr": "Faiblesse et fatigue" },
+    "minerals": [
+      {
+        "name": { "en": "Iron", "fr": "Fer" },
+        "aliments": [
+          {
+            "name": { "en": "Red Meat", "fr": "Viande rouge" },
+            "description": { "en": "Meat high in iron.", "fr": "Viande riche en fer." }
+          },
+          {
+            "name": { "en": "Spinach", "fr": "Épinards" },
+            "description": { "en": "Leafy green rich in iron.", "fr": "Légume vert riche en fer." }
+          },
+          {
+            "name": { "en": "Lentils", "fr": "Lentilles" },
+            "description": { "en": "Legume high in iron.", "fr": "Légume riche en fer." }
+          }
+        ]
+      }
+    ],
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin B12", "fr": "Vitamine B12" },
+        "aliments": [
+          {
+            "name": { "en": "Clams", "fr": "Palourdes" },
+            "description": { "en": "Seafood high in Vitamin B12.", "fr": "Fruits de mer riches en vitamine B12." }
+          },
+          {
+            "name": { "en": "Liver", "fr": "Foie" },
+            "description": { "en": "Organ meat high in Vitamin B12.", "fr": "Abat riche en vitamine B12." }
+          },
+          {
+            "name": { "en": "Salmon", "fr": "Saumon" },
+            "description": { "en": "Fish high in Vitamin B12.", "fr": "Poisson riche en vitamine B12." }
+          }
+        ]
+      }
+    ],
+    "amino_acids": []
+  },
+  "wound healing": {
+    "name": { "en": "Wound Healing", "fr": "Cicatrisation des plaies" },
+    "minerals": [],
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin C", "fr": "Vitamine C" },
+        "aliments": [
+          {
+            "name": { "en": "Oranges", "fr": "Oranges" },
+            "description": { "en": "Citrus fruit high in Vitamin C.", "fr": "Agrume riche en vitamine C." }
+          },
+          {
+            "name": { "en": "Strawberries", "fr": "Fraises" },
+            "description": { "en": "Berries rich in Vitamin C.", "fr": "Baies riches en vitamine C." }
+          },
+          {
+            "name": { "en": "Kiwifruit", "fr": "Kiwi" },
+            "description": { "en": "Fruit high in Vitamin C.", "fr": "Fruit riche en vitamine C." }
+          }
+        ]
+      }
+    ],
+    "amino_acids": []
+  },
+  "gum disease": {
+    "name": { "en": "Gum Disease", "fr": "Maladie des gencives" },
+    "minerals": [],
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin C", "fr": "Vitamine C" },
+        "aliments": [
+          {
+            "name": { "en": "Oranges", "fr": "Oranges" },
+            "description": { "en": "Citrus fruit high in Vitamin C.", "fr": "Agrume riche en vitamine C." }
+          },
+          {
+            "name": { "en": "Strawberries", "fr": "Fraises" },
+            "description": { "en": "Berries rich in Vitamin C.", "fr": "Baies riches en vitamine C." }
+          },
+          {
+            "name": { "en": "Kiwifruit", "fr": "Kiwi" },
+            "description": { "en": "Fruit high in Vitamin C.", "fr": "Fruit riche en vitamine C." }
+          }
+        ]
+      }
+    ],
+    "amino_acids": []
+  },
+  "goiter": {
+    "name": { "en": "Goiter (Iodine deficiency)", "fr": "Goitre (carence en iode)" },
+    "minerals": [
+      {
+        "name": { "en": "Iodine", "fr": "Iode" },
+        "aliments": [
+          {
+            "name": { "en": "Seaweed", "fr": "Algue" },
+            "description": { "en": "Sea vegetable high in iodine.", "fr": "Légume marin riche en iode." }
+          },
+          {
+            "name": { "en": "Cod", "fr": "Morue" },
+            "description": { "en": "Fish high in iodine.", "fr": "Poisson riche en iode." }
+          },
+          {
+            "name": { "en": "Dairy", "fr": "Produits laitiers" },
+            "description": { "en": "Dairy products high in iodine.", "fr": "Produits laitiers riches en iode." }
+          }
+        ]
+      }
+    ],
+    "vitamins": [],
+    "amino_acids": []
+  },
+  "osteomalacia": {
+    "name": { "en": "Osteomalacia (Vitamin D deficiency in adults)", "fr": "Ostéomalacie (carence en vitamine D chez les adultes)" },
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin D", "fr": "Vitamine D" },
+        "aliments": [
+          {
+            "name": { "en": "Salmon", "fr": "Saumon" },
+            "description": { "en": "Fish high in Vitamin D.", "fr": "Poisson riche en vitamine D." }
+          },
+          {
+            "name": { "en": "Mushrooms", "fr": "Champignons" },
+            "description": { "en": "Fungi high in Vitamin D.", "fr": "Champignons riches en vitamine D." }
+          },
+          {
+            "name": { "en": "Egg Yolks", "fr": "Jaunes d'œufs" },
+            "description": { "en": "Egg yolks high in Vitamin D.", "fr": "Jaunes d'œufs riches en vitamine D." }
+          }
+        ]
+      }
+    ],
+    "minerals": [],
+    "amino_acids": []
+  },
+  "night blindness": {
+    "name": { "en": "Night Blindness (Vitamin A deficiency)", "fr": "Cécité nocturne (carence en vitamine A)" },
+    "vitamins": [
+      {
+        "name": { "en": "Vitamin A", "fr": "Vitamine A" },
+        "aliments": [
+          {
+            "name": { "en": "Carrots", "fr": "Carottes" },
+            "description": { "en": "Vegetable high in Vitamin A.", "fr": "Légume riche en vitamine A." }
+          },
+          {
+            "name": { "en": "Sweet Potatoes", "fr": "Patates douces" },
+            "description": { "en": "Root vegetable high in Vitamin A.", "fr": "Légume racine riche en vitamine A." }
+          },
+          {
+            "name": { "en": "Spinach", "fr": "Épinards" },
+            "description": { "en": "Leafy green high in Vitamin A.", "fr": "Légume vert riche en vitamine A." }
+          }
+        ]
+      }
+    ],
+    "minerals": [],
+    "amino_acids": []
   }
 };
