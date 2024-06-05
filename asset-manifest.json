@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/healer/static/css/main.a5a75a03.css",
-    "main.js": "/healer/static/js/main.3bb95134.js",
+    "main.css": "/healer/static/css/main.2286c789.css",
+    "main.js": "/healer/static/js/main.6ff33169.js",
     "static/js/453.9cba026b.chunk.js": "/healer/static/js/453.9cba026b.chunk.js",
     "index.html": "/healer/index.html",
-    "main.a5a75a03.css.map": "/healer/static/css/main.a5a75a03.css.map",
-    "main.3bb95134.js.map": "/healer/static/js/main.3bb95134.js.map",
+    "main.2286c789.css.map": "/healer/static/css/main.2286c789.css.map",
+    "main.6ff33169.js.map": "/healer/static/js/main.6ff33169.js.map",
     "453.9cba026b.chunk.js.map": "/healer/static/js/453.9cba026b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5a75a03.css",
-    "static/js/main.3bb95134.js"
+    "static/css/main.2286c789.css",
+    "static/js/main.6ff33169.js"
   ]
 }
