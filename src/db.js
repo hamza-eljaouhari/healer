@@ -915,6 +915,26 @@ export default {
   },
   "scurvy": {
     "name": { "en": "Scurvy (Vitamin C deficiency)", "fr": "Scorbut (carence en vitamine C)" },
+    "herbs": [
+      {
+        "name": { "en": "Rose Hips", "fr": "Cynorrhodon" },
+        "aliments": [
+          {
+            "name": { "en": "Rose Hip Tea", "fr": "Thé de cynorrhodon" },
+            "description": { "en": "A tea made from rose hips.", "fr": "Un thé fait de cynorrhodon." }
+          }
+        ]
+      },
+      {
+        "name": { "en": "Acerola Cherry", "fr": "Cerise d'acérola" },
+        "aliments": [
+          {
+            "name": { "en": "Acerola Juice", "fr": "Jus d'acérola" },
+            "description": { "en": "Juice made from acerola cherries.", "fr": "Jus fait de cerises d'acérola." }
+          }
+        ]
+      }
+    ],
     "vitamins": [
       {
         "name": { "en": "Vitamin C", "fr": "Vitamine C" },
@@ -939,6 +959,17 @@ export default {
   },
   "rickets": {
     "name": { "en": "Rickets (Vitamin D deficiency)", "fr": "Rachitisme (carence en vitamine D)" },
+    "herbs": [
+      {
+        "name": { "en": "Alfalfa", "fr": "Luzerne" },
+        "aliments": [
+          {
+            "name": { "en": "Alfalfa Sprouts", "fr": "Germes de luzerne" },
+            "description": { "en": "Sprouts high in nutrients.", "fr": "Germes riches en nutriments." }
+          }
+        ]
+      }
+    ],
     "vitamins": [
       {
         "name": { "en": "Vitamin D", "fr": "Vitamine D" },
@@ -963,6 +994,17 @@ export default {
   },
   "beriberi": {
     "name": { "en": "Beriberi (Vitamin B1 deficiency)", "fr": "Béribéri (carence en vitamine B1)" },
+    "herbs": [
+      {
+        "name": { "en": "Fenugreek", "fr": "Fenugrec" },
+        "aliments": [
+          {
+            "name": { "en": "Fenugreek Tea", "fr": "Thé de fenugrec" },
+            "description": { "en": "A tea made from fenugreek seeds.", "fr": "Un thé fait de graines de fenugrec." }
+          }
+        ]
+      }
+    ],
     "vitamins": [
       {
         "name": { "en": "Vitamin B1 (Thiamine)", "fr": "Vitamine B1 (Thiamine)" },
@@ -987,6 +1029,17 @@ export default {
   },
   "pellagra": {
     "name": { "en": "Pellagra (Vitamin B3 deficiency)", "fr": "Pellagre (carence en vitamine B3)" },
+    "herbs": [
+      {
+        "name": { "en": "Red Clover", "fr": "Trèfle rouge" },
+        "aliments": [
+          {
+            "name": { "en": "Red Clover Tea", "fr": "Thé de trèfle rouge" },
+            "description": { "en": "A tea made from red clover.", "fr": "Un thé fait de trèfle rouge." }
+          }
+        ]
+      }
+    ],
     "vitamins": [
       {
         "name": { "en": "Vitamin B3 (Niacin)", "fr": "Vitamine B3 (Niacine)" },
@@ -1011,6 +1064,17 @@ export default {
   },
   "kwashiorkor": {
     "name": { "en": "Kwashiorkor (Protein deficiency)", "fr": "Kwashiorkor (carence en protéines)" },
+    "herbs": [
+      {
+        "name": { "en": "Spirulina", "fr": "Spiruline" },
+        "aliments": [
+          {
+            "name": { "en": "Spirulina Smoothie", "fr": "Smoothie à la spiruline" },
+            "description": { "en": "A smoothie made with spirulina powder.", "fr": "Un smoothie fait avec de la poudre de spiruline." }
+          }
+        ]
+      }
+    ],
     "amino_acids": [
       {
         "name": { "en": "Protein", "fr": "Protéine" },
@@ -1035,6 +1099,17 @@ export default {
   },
   "marasmus": {
     "name": { "en": "Marasmus (Severe malnutrition due to deficiency of calories and proteins)", "fr": "Marasme (malnutrition sévère due à une carence en calories et en protéines)" },
+    "herbs": [
+      {
+        "name": { "en": "Moringa", "fr": "Moringa" },
+        "aliments": [
+          {
+            "name": { "en": "Moringa Powder", "fr": "Poudre de moringa" },
+            "description": { "en": "Powder made from moringa leaves.", "fr": "Poudre faite de feuilles de moringa." }
+          }
+        ]
+      }
+    ],
     "amino_acids": [
       {
         "name": { "en": "Protein", "fr": "Protéine" },
@@ -1059,6 +1134,17 @@ export default {
   },
   "anemia": {
     "name": { "en": "Anemia", "fr": "Anémie" },
+    "herbs": [
+      {
+        "name": { "en": "Nettle", "fr": "Ortie" },
+        "aliments": [
+          {
+            "name": { "en": "Nettle Tea", "fr": "Thé d'ortie" },
+            "description": { "en": "A tea made from nettle leaves.", "fr": "Un thé fait de feuilles d'ortie." }
+          }
+        ]
+      }
+    ],
     "minerals": [
       {
         "name": { "en": "Iron", "fr": "Fer" },
@@ -1101,6 +1187,17 @@ export default {
   },
   "bone health": {
     "name": { "en": "Bone Health (Osteoporosis)", "fr": "Santé des os (Ostéoporose)" },
+    "herbs": [
+      {
+        "name": { "en": "Horsetail", "fr": "Prêle" },
+        "aliments": [
+          {
+            "name": { "en": "Horsetail Tea", "fr": "Thé de prêle" },
+            "description": { "en": "A tea made from horsetail.", "fr": "Un thé fait de prêle." }
+          }
+        ]
+      }
+    ],
     "minerals": [
       {
         "name": { "en": "Calcium", "fr": "Calcium" },
@@ -1177,6 +1274,17 @@ export default {
   },
   "cognitive decline": {
     "name": { "en": "Cognitive Decline", "fr": "Déclin cognitif" },
+    "herbs": [
+      {
+        "name": { "en": "Ginkgo Biloba", "fr": "Ginkgo Biloba" },
+        "aliments": [
+          {
+            "name": { "en": "Ginkgo Tea", "fr": "Thé de ginkgo" },
+            "description": { "en": "A tea made from ginkgo leaves.", "fr": "Un thé fait de feuilles de ginkgo." }
+          }
+        ]
+      }
+    ],
     "minerals": [],
     "vitamins": [
       {
@@ -1218,6 +1326,17 @@ export default {
   },
   "dry skin": {
     "name": { "en": "Dry Skin", "fr": "Peau sèche" },
+    "herbs": [
+      {
+        "name": { "en": "Aloe Vera", "fr": "Aloe Vera" },
+        "aliments": [
+          {
+            "name": { "en": "Aloe Vera Juice", "fr": "Jus d'Aloe Vera" },
+            "description": { "en": "A juice made from aloe vera.", "fr": "Un jus fait d'Aloe Vera." }
+          }
+        ]
+      }
+    ],
     "minerals": [],
     "vitamins": [
       {
@@ -1242,6 +1361,17 @@ export default {
   },
   "eye health": {
     "name": { "en": "Eye Health", "fr": "Santé des yeux" },
+    "herbs": [
+      {
+        "name": { "en": "Bilberry", "fr": "Myrtille" },
+        "aliments": [
+          {
+            "name": { "en": "Bilberry Jam", "fr": "Confiture de myrtille" },
+            "description": { "en": "Jam made from bilberries.", "fr": "Confiture faite de myrtilles." }
+          }
+        ]
+      }
+    ],
     "minerals": [],
     "vitamins": [
       {
@@ -1266,6 +1396,17 @@ export default {
   },
   "hair loss": {
     "name": { "en": "Hair Loss", "fr": "Perte de cheveux" },
+    "herbs": [
+      {
+        "name": { "en": "Saw Palmetto", "fr": "Palmier nain" },
+        "aliments": [
+          {
+            "name": { "en": "Saw Palmetto Tea", "fr": "Thé de palmier nain" },
+            "description": { "en": "A tea made from saw palmetto.", "fr": "Un thé fait de palmier nain." }
+          }
+        ]
+      }
+    ],
     "minerals": [
       {
         "name": { "en": "Zinc", "fr": "Zinc" },
@@ -1308,6 +1449,17 @@ export default {
   },
   "heart health": {
     "name": { "en": "Heart Health", "fr": "Santé du cœur" },
+    "herbs": [
+      {
+        "name": { "en": "Hawthorn", "fr": "Aubépine" },
+        "aliments": [
+          {
+            "name": { "en": "Hawthorn Tea", "fr": "Thé d'aubépine" },
+            "description": { "en": "A tea made from hawthorn berries.", "fr": "Un thé fait de baies d'aubépine." }
+          }
+        ]
+      }
+    ],
     "minerals": [
       {
         "name": { "en": "Magnesium", "fr": "Magnésium" },
@@ -1367,6 +1519,17 @@ export default {
   },
   "immune support": {
     "name": { "en": "Immune Support", "fr": "Soutien immunitaire" },
+    "herbs": [
+      {
+        "name": { "en": "Elderberry", "fr": "Sureau" },
+        "aliments": [
+          {
+            "name": { "en": "Elderberry Syrup", "fr": "Sirop de sureau" },
+            "description": { "en": "A syrup made from elderberries.", "fr": "Un sirop fait de sureau." }
+          }
+        ]
+      }
+    ],
     "minerals": [
       {
         "name": { "en": "Zinc", "fr": "Zinc" },
@@ -1409,6 +1572,17 @@ export default {
   },
   "muscle cramps": {
     "name": { "en": "Muscle Cramps", "fr": "Crampe musculaire" },
+    "herbs": [
+      {
+        "name": { "en": "Chamomile", "fr": "Camomille" },
+        "aliments": [
+          {
+            "name": { "en": "Chamomile Tea", "fr": "Thé à la camomille" },
+            "description": { "en": "A calming tea made from chamomile flowers.", "fr": "Un thé apaisant fait de fleurs de camomille." }
+          }
+        ]
+      }
+    ],
     "minerals": [
       {
         "name": { "en": "Magnesium", "fr": "Magnésium" },
@@ -1571,6 +1745,17 @@ export default {
   },
   "thyroid issues": {
     "name": { "en": "Thyroid Issues", "fr": "Problèmes de thyroïde" },
+    "herbs": [
+      {
+        "name": { "en": "Bladderwrack", "fr": "Fucus" },
+        "aliments": [
+          {
+            "name": { "en": "Bladderwrack Tea", "fr": "Thé de fucus" },
+            "description": { "en": "A tea made from bladderwrack.", "fr": "Un thé fait de fucus." }
+          }
+        ]
+      }
+    ],
     "minerals": [
       {
         "name": { "en": "Iodine", "fr": "Iode" },
@@ -1612,6 +1797,17 @@ export default {
   },
   "weakness and fatigue": {
     "name": { "en": "Weakness and Fatigue", "fr": "Faiblesse et fatigue" },
+    "herbs": [
+      {
+        "name": { "en": "Ginseng", "fr": "Ginseng" },
+        "aliments": [
+          {
+            "name": { "en": "Ginseng Tea", "fr": "Thé de ginseng" },
+            "description": { "en": "A tea made from ginseng root.", "fr": "Un thé fait de racine de ginseng." }
+          }
+        ]
+      }
+    ],
     "minerals": [
       {
         "name": { "en": "Iron", "fr": "Fer" },
@@ -1654,6 +1850,17 @@ export default {
   },
   "wound healing": {
     "name": { "en": "Wound Healing", "fr": "Cicatrisation des plaies" },
+    "herbs": [
+      {
+        "name": { "en": "Gotu Kola", "fr": "Centella asiatica" },
+        "aliments": [
+          {
+            "name": { "en": "Gotu Kola Tea", "fr": "Thé de centella" },
+            "description": { "en": "A tea made from gotu kola.", "fr": "Un thé fait de centella." }
+          }
+        ]
+      }
+    ],
     "minerals": [],
     "vitamins": [
       {
@@ -1672,12 +1879,49 @@ export default {
             "description": { "en": "Fruit high in Vitamin C.", "fr": "Fruit riche en vitamine C." }
           }
         ]
+      },
+      {
+        "name": { "en": "Vitamin A", "fr": "Vitamine A" },
+        "aliments": [
+          {
+            "name": { "en": "Carrots", "fr": "Carottes" },
+            "description": { "en": "Vegetable high in Vitamin A.", "fr": "Légume riche en vitamine A." }
+          },
+          {
+            "name": { "en": "Sweet Potatoes", "fr": "Patates douces" },
+            "description": { "en": "Root vegetable high in Vitamin A.", "fr": "Légume racine riche en vitamine A." }
+          },
+          {
+            "name": { "en": "Spinach", "fr": "Épinards" },
+            "description": { "en": "Leafy green high in Vitamin A.", "fr": "Légume vert riche en vitamine A." }
+          }
+        ]
       }
     ],
     "amino_acids": []
   },
   "gum disease": {
     "name": { "en": "Gum Disease", "fr": "Maladie des gencives" },
+    "herbs": [
+      {
+        "name": { "en": "Sage", "fr": "Sauge" },
+        "aliments": [
+          {
+            "name": { "en": "Sage Tea", "fr": "Thé à la sauge" },
+            "description": { "en": "A tea made from sage leaves.", "fr": "Un thé fait de feuilles de sauge." }
+          }
+        ]
+      },
+      {
+        "name": { "en": "Myrrh", "fr": "Myrrhe" },
+        "aliments": [
+          {
+            "name": { "en": "Myrrh Mouthwash", "fr": "Bain de bouche à la myrrhe" },
+            "description": { "en": "A mouthwash made from myrrh.", "fr": "Un bain de bouche fait de myrrhe." }
+          }
+        ]
+      }
+    ],
     "minerals": [],
     "vitamins": [
       {
@@ -1702,6 +1946,17 @@ export default {
   },
   "goiter": {
     "name": { "en": "Goiter (Iodine deficiency)", "fr": "Goitre (carence en iode)" },
+    "herbs": [
+      {
+        "name": { "en": "Bladderwrack", "fr": "Fucus" },
+        "aliments": [
+          {
+            "name": { "en": "Bladderwrack Tea", "fr": "Thé de fucus" },
+            "description": { "en": "A tea made from bladderwrack.", "fr": "Un thé fait de fucus." }
+          }
+        ]
+      }
+    ],
     "minerals": [
       {
         "name": { "en": "Iodine", "fr": "Iode" },
@@ -1726,6 +1981,17 @@ export default {
   },
   "osteomalacia": {
     "name": { "en": "Osteomalacia (Vitamin D deficiency in adults)", "fr": "Ostéomalacie (carence en vitamine D chez les adultes)" },
+    "herbs": [
+      {
+        "name": { "en": "Alfalfa", "fr": "Luzerne" },
+        "aliments": [
+          {
+            "name": { "en": "Alfalfa Sprouts", "fr": "Germes de luzerne" },
+            "description": { "en": "Sprouts high in nutrients.", "fr": "Germes riches en nutriments." }
+          }
+        ]
+      }
+    ],
     "vitamins": [
       {
         "name": { "en": "Vitamin D", "fr": "Vitamine D" },
@@ -1750,6 +2016,17 @@ export default {
   },
   "night blindness": {
     "name": { "en": "Night Blindness (Vitamin A deficiency)", "fr": "Cécité nocturne (carence en vitamine A)" },
+    "herbs": [
+      {
+        "name": { "en": "Bilberry", "fr": "Myrtille" },
+        "aliments": [
+          {
+            "name": { "en": "Bilberry Jam", "fr": "Confiture de myrtille" },
+            "description": { "en": "Jam made from bilberries.", "fr": "Confiture faite de myrtilles." }
+          }
+        ]
+      }
+    ],
     "vitamins": [
       {
         "name": { "en": "Vitamin A", "fr": "Vitamine A" },
