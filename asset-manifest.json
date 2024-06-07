@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/healer/static/css/main.c58c26fd.css",
-    "main.js": "/healer/static/js/main.c8fc7f38.js",
+    "main.js": "/healer/static/js/main.f9fdda22.js",
     "static/js/453.9cba026b.chunk.js": "/healer/static/js/453.9cba026b.chunk.js",
     "index.html": "/healer/index.html",
     "main.c58c26fd.css.map": "/healer/static/css/main.c58c26fd.css.map",
-    "main.c8fc7f38.js.map": "/healer/static/js/main.c8fc7f38.js.map",
+    "main.f9fdda22.js.map": "/healer/static/js/main.f9fdda22.js.map",
     "453.9cba026b.chunk.js.map": "/healer/static/js/453.9cba026b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c58c26fd.css",
-    "static/js/main.c8fc7f38.js"
+    "static/js/main.f9fdda22.js"
   ]
 }
